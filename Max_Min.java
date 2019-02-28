@@ -1,9 +1,9 @@
 
-package lab2a.sam.palmer;
+package MAX_MIN;
 
 import java.util.Scanner;
 
-public class Lab2aSamPalmer {
+public class MaxMin {
 
   
     public static void main(String[] args) {
