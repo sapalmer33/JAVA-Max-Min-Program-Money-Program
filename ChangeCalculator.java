@@ -1,9 +1,9 @@
 
-package lab2b.sam.palmer;
+package change.calculator;
 
 import java.util.Scanner;
 
-public class Lab2bSamPalmer {
+public class ChangeCalculator {
 
    
     public static void main(String[] args) {
