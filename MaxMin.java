@@ -1,5 +1,5 @@
 
-package MAX_MIN;
+package max.min;
 
 import java.util.Scanner;
 
